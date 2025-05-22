@@ -1,4 +1,6 @@
 **AI-Generated Deepfake Detection**
+
+
 This project aims to detect deepfake facial content (images and video frames) using a fine-tuned ResNet18 deep learning model. It includes training scripts, dataset instructions, and a real-time web interface for evaluating image and video authenticity.
 
 📌** Features**
