@@ -34,19 +34,7 @@ After downloading and extracting, arrange the data like this:
 git clone https://github.com/Digeesha/AI-Generated-Deepfake-Detection.git
 cd AI-Generated-Deepfake-Detection
 
-**Step 2: Create and activate a virtual environment**
-
-# Create virtual environment
-python -m venv venv
-
-# Activate (Windows)
-venv\Scripts\activate
-
-# Activate (macOS/Linux)
-source venv/bin/activate
-
-
-**Step 3: Install dependencies**
+**Step 2: Install dependencies**
 
 pip install -r requirements.txt
 🧠 **Model Training**
